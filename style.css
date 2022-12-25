@@ -134,8 +134,8 @@ section{
 .p-card{
   background-color: #ffffff;
   border: 1px solid #ccc;
-  min-height: 14em;
-  width: 28em;
+  min-height: 12em;
+  width: 20em;
   overflow: hidden;
   border-radius: 10px;
   margin: 20px;
@@ -180,7 +180,6 @@ section{
 @media (max-width: 1023px){
   header{
   padding: 12px  20px;
-  width: 370px;
 
 }
 nav a{
