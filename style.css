@@ -123,6 +123,16 @@ section{
   font-weight: 700;
   margin: 10px;
 }
+.info p{
+  display: flex;
+  justify-content: center;
+}
+.info a{
+  color: #3a6cf4;
+  font-size: 1.2em;
+  text-decoration: none;
+  font-weight: 600;
+}
 .projects{
   background-color:#ffffff;
 }
