@@ -792,7 +792,7 @@ background-color: var(--transparent-color);
 }
 @media(max-width: 926px){
   .our-skills .skills{
-    padding-left: 70px;
+    padding-left: 60px;
   }
   }
 .quote{
